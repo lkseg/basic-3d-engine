@@ -1,4 +1,4 @@
-4Example Project which does the following:
+Example project which implements the following:
 
 - 3D rendering written in OpenGl with the ability to render objects with assigned materials.
 - Dynamic shadow/light rendering.
