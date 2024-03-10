@@ -1,4 +1,4 @@
-Example Project which does the following:
+4Example Project which does the following:
 
 - 3D rendering written in OpenGl with the ability to render objects with assigned materials.
 - Dynamic shadow/light rendering.
@@ -13,5 +13,5 @@ the library for glfw on linux.
 
 
 <p align="center">
-<img src="misc/editor.PNG" width="700" title="">
+<img src="misc/editor.PNG" width="900" title="">
 </p>
