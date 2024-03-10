@@ -1,0 +1,11 @@
+*.bat
+!reload.bat
+!run.bat
+**.exe
+**.exp
+**.lib
+*.pdb
+*.json
+ols.json
+pg.odin
+/build
